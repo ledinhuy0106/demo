@@ -1,2 +1,4 @@
-package ss3;public class Ss3 {
+package ss3;
+
+public class Ss3 {
 }
